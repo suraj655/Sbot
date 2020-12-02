@@ -1,0 +1,6 @@
+Flask==1.1.2
+Chatterbot==1.0.0
+chatterbot-corpus==1.2.0
+pytz==2020.4
+gunnicorn==20.0.4
+
